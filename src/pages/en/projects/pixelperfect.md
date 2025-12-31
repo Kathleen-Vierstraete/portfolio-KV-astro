@@ -3,7 +3,7 @@ layout: '@/templates/BasePostEnglish.astro'
 title: Pixel Perfect
 description: E-shop demo site
 pubDate: 2024-04-18T00:00:00Z
-imgSrc: '/assets/images/pp-logo2.png'
+imgSrc: '../../../public/assets/images/index-logos/pp-logo2.png'
 imgAlt: 'Logo Pixel Perfect'
 ---
 Pixel Perfect is a e-shop demo site. It was build in a team of 5 developers and 2 testers. The designer started to build the  mock-up, but had to leave the adventure short after starting to build the first integrations. The application was developed via React-Redux, and Tailwind for the FrontEnd part, and via Symfony for the BackEnd and the API routes. The site was not deployed, the goal was to practice, upgrade our skills and learn more about features such as Stripe. 

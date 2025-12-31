@@ -3,7 +3,7 @@ layout: '@/templates/BasePost.astro'
 title: Tiny Game
 description: "Un petit jeu via JS pour redécouvrir mon CV"
 pubDate: 2024-04-18T00:00:00Z
-imgSrc: '/assets/images/laby-logo2.png'
+imgSrc: '../../public/assets/images/index-logos/laby-logo2.png'
 imgAlt: 'Logo Opoils'
 ---
 

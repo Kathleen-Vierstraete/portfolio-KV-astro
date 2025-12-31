@@ -3,7 +3,7 @@ layout: '@/templates/BasePost.astro'
 title: Koney Island Wordpress
 description: Thème personalisé wordpress, avec possibilité de publier des articles. 
 pubDate: 2024-04-18T00:00:00Z
-imgSrc: '/assets/images/koney-logo.png'
+imgSrc: '../../public/assets/images/index-logos/koney-logo.png'
 imgAlt: 'Logo Opoils'
 ---
 

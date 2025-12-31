@@ -3,7 +3,7 @@ layout: '@/templates/BasePost.astro'
 title: Opoils
 description: Site de rencontre pour chiens, où les propriétaires de chiens peuvent se rencontrer et organiser des rendez-vous pour leurs compagnons à quatre pattes, pour des parties de jeux ou des promenades inoubliables.
 pubDate: 2024-04-18T00:00:00Z
-imgSrc: '/assets/images/opoils-logo.png'
+imgSrc: '../../public/assets/images/index-logos/opoils-logo.png'
 imgAlt: 'Logo Opoils'
 ---
 

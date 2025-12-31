@@ -3,7 +3,7 @@ layout: '@/templates/BasePostEnglish.astro'
 title: Tiny Game
 description: "A small pause with this game to help me find new opportunities and rediscover my CV."
 pubDate: 2024-04-18T00:00:00Z
-imgSrc: '/assets/images/laby-logo2.png'
+imgSrc: '../../../public/assets/images/index-logos/laby-logo2.png'
 imgAlt: 'Logo Opoils'
 ---
 

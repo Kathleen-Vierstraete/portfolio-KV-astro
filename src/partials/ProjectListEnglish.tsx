@@ -118,7 +118,7 @@ const ProjectListEnglish = () => (
         <Project
           name="Bakery Sign"
           description="Request from a client for a Bakery Sign"
-          link="projets/bakery/"
+          link="projects/bakery/"
           img={{
             src: BoulangerieLogo.src,
             alt: 'Bakery Project Logo',
@@ -134,7 +134,7 @@ const ProjectListEnglish = () => (
         <Project
           name="2025 Christmas Menu"
           description="Various designs to promote our partner restaurant's Christmas Menu"
-          link="projets/ChristmasMenu2025/"
+          link="projects/ChristmasMenu2025/"
           img={{
             src: MenuNoel2025Logo.src,
             alt: '2025 Christmas menu logo',
@@ -150,7 +150,7 @@ const ProjectListEnglish = () => (
         <Project
           name="2025 Christmas Trees Sale"
           description="A poster to promote the 2025 Christmas Tree Sale"
-          link="projets/ChristmasTreesSale2025/"
+          link="projects/ChristmasTreesSale2025/"
           img={{
             src: VenteSapins2025.src,
             alt: '2025 Christmas Trees Sale logo',
