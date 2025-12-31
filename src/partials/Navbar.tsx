@@ -29,7 +29,7 @@ const Navbar = () => (
           LinkedIn
         </NavMenuItem>
         <NavMenuItem
-          href="https://drive.google.com/file/d/1hMRpJEmb-jCRvpV-3NPEsPqo3j6tP-F5/view"
+          href="https://drive.google.com/file/d/1BYctr0W3pPYsIn_QGqGcGOs-upQ03w_F/view?usp=drive_link"
           target="_blank"
         >
           CV
